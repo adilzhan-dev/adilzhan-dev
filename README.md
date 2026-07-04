@@ -49,6 +49,7 @@
 | [ascii-art-web](https://github.com/adilzhan-dev/ascii-art-web) | ASCII-art генератор с веб-интерфейсом на Go | Go, HTML/CSS |
 | [ascii-art](https://github.com/adilzhan-dev/ascii-art) | ASCII-art генератор из командной строки | Go |
 | [go-reloaded](https://github.com/adilzhan-dev/go-reloaded) | Текстовый процессор с преобразованием чисел, регистра и определением языка | Go |
+| [garage-console-app](https://github.com/adilzhan-dev/garage-console-app) | Консольное приложение с ООП-подходом (структуры, интерфейсы, конструкторы) | Go |
  
 ---
  
