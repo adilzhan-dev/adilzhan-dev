@@ -48,6 +48,7 @@
 | [groupie-tracker](https://github.com/adilzhan-dev/groupie-tracker) | Веб-приложение с визуализацией данных о музыкальных артистах через внешний API | Go, HTML/CSS |
 | [ascii-art-web](https://github.com/adilzhan-dev/ascii-art-web) | ASCII-art генератор с веб-интерфейсом на Go | Go, HTML/CSS |
 | [ascii-art](https://github.com/adilzhan-dev/ascii-art) | ASCII-art генератор из командной строки | Go |
+| [go-reloaded](https://github.com/adilzhan-dev/go-reloaded) | Текстовый процессор с преобразованием чисел, регистра и определением языка | Go |
  
 ---
  
