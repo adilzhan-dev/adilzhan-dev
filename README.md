@@ -46,7 +46,7 @@
 | Проект | Описание | Стек |
 |---|---|---|
 | [groupie-tracker](https://github.com/adilzhan-dev/groupie-tracker) | Веб-приложение с визуализацией данных о музыкальных артистах через внешний API | Go, HTML/CSS |
-| [symbol-art](ССЫЛКА) | ASCII-art генератор с обработкой текста и файлов | Go |
+| [ascii-art-web](https://github.com/adilzhan-dev/ascii-art-web) | ASCII-art генератор с веб-интерфейсом на Go | Go, HTML/CSS |
 | [garage-console-app](ССЫЛКА) | Консольное приложение с ООП-подходом (структуры, интерфейсы, конструкторы) | Go |
  
 ---
